@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
+  <diagram name="Page-1" id="w2wMrouKMOcUouHZxr_B">
+    <mxGraphModel dx="1042" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kiNWAwaw0OsozCGJL0b9-9" edge="1" parent="1" source="kiNWAwaw0OsozCGJL0b9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kiNWAwaw0OsozCGJL0b9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kiNWAwaw0OsozCGJL0b9-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="START" vertex="1">
+          <mxGeometry height="80" width="120" x="240" y="-60" as="geometry" />
+        </mxCell>
+        <mxCell id="kiNWAwaw0OsozCGJL0b9-10" edge="1" parent="1" source="kiNWAwaw0OsozCGJL0b9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kiNWAwaw0OsozCGJL0b9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kiNWAwaw0OsozCGJL0b9-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;p class=&quot;MsoListParagraph&quot;&gt;DRIV.(PASS) ̅.(BELTD) ̅.(BELTP) ̅.IGN&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="260" x="170" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kiNWAwaw0OsozCGJL0b9-11" edge="1" parent="1" source="kiNWAwaw0OsozCGJL0b9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="kiNWAwaw0OsozCGJL0b9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kiNWAwaw0OsozCGJL0b9-12" edge="1" parent="1" source="kiNWAwaw0OsozCGJL0b9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kiNWAwaw0OsozCGJL0b9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kiNWAwaw0OsozCGJL0b9-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;div&gt;IF (DRIV.(PASS) ̅.(BELTD) ̅.(BELTP) ̅.IGN) OR&lt;/div&gt;&lt;div&gt;(DRIV.(PASS) ̅.(BELTD) ̅.BELTP.IGN) OR&lt;/div&gt;&lt;div&gt;(DRIV.PASS.(BELTD) ̅.(BELTP) ̅.IGN) OR&lt;/div&gt;&lt;div&gt;(DRIV.PASS.(BELTD) ̅.BELTP.IGN) OR&lt;/div&gt;&lt;div&gt;(DRIV.PASS.BELTD.(BELTP) ̅.IGN) OR&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="280" width="376" x="112" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="kiNWAwaw0OsozCGJL0b9-15" edge="1" parent="1" source="kiNWAwaw0OsozCGJL0b9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="kiNWAwaw0OsozCGJL0b9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kiNWAwaw0OsozCGJL0b9-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;p class=&quot;MsoListParagraph&quot;&gt;ALARM OFF&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="260" x="600" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="kiNWAwaw0OsozCGJL0b9-13" edge="1" parent="1" source="kiNWAwaw0OsozCGJL0b9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kiNWAwaw0OsozCGJL0b9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kiNWAwaw0OsozCGJL0b9-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;p class=&quot;MsoListParagraph&quot;&gt;ALARM ON&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="260" x="170" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="kiNWAwaw0OsozCGJL0b9-14" edge="1" parent="1" source="kiNWAwaw0OsozCGJL0b9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kiNWAwaw0OsozCGJL0b9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kiNWAwaw0OsozCGJL0b9-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="260" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="kiNWAwaw0OsozCGJL0b9-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="STOP" vertex="1">
+          <mxGeometry height="80" width="120" x="240" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="kiNWAwaw0OsozCGJL0b9-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="FALSE" vertex="1">
+          <mxGeometry height="30" width="60" x="510" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="kiNWAwaw0OsozCGJL0b9-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="TRUE" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="570" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
